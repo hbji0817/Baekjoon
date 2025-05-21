@@ -4,7 +4,7 @@ class Num {
     int number;
 
     Num(int number) { 
-        this.value = number;
+        this.number = number;
     }
 
     boolean Equal(int t) {
